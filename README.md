@@ -18,24 +18,3 @@ Feel free to reach out to me if you have any questions or if you'd like to conne
 
 <br />
 <br />
-
-### Some of my GitHub Stats
-
-[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyabandara&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### Sample Code
-
-```python
-def calculate_sum(num1, num2):
-    """
-    This function takes in two numbers and returns their sum
-    """
-    return num1 + num2
-
-
-
-
-
-
-
-
