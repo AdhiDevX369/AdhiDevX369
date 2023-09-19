@@ -1,6 +1,6 @@
 # Adithya Bandara
 
-Hi there, I'm Adithya Bandara 👋, an aspiring software engineer currently pursuing a Higher National Diploma in Information Technology 🎓. I'm proficient in web languages and programming, as well as Discord server management and bot development.
+Hi there, I'm Adithya Bandara 👋, an aspiring Data Scientist currently pursuing a Higher National Diploma in Information Technology 🎓. I'm proficient in web languages and programming, as well as Discord server management and bot development.
 
 ## Contact me 📫
 - Email: [dammikaekanayaka1980@gmail.com](mailto:dammikaekanayaka1980@gmail.com)
