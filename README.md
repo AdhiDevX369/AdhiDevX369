@@ -18,5 +18,6 @@ Feel free to reach out to me if you have any questions or if you'd like to conne
 <img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CCS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg" />
 <br />
 <br />
