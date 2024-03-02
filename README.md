@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -17,19 +17,19 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL**
+- 🔭 I’m currently working on **SQL, Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, Flask, Docker, AWS, Google Cloud Platform**
 
-- 🌱 I’m currently learning **Data Science basics and Python.**
+- 🌱 I’m currently learning **Data Science basics and advanced techniques**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS** and **Google Cloud Platform**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@adithyabandara)
 
-- 💬 Ask me about **SQL, Java, PHP, nodejs, mongoDB**
+- 💬 Ask me about **SQL, Python, TensorFlow, Keras, Flask, Docker**
 
-- 📫 Feel free to reach me out **dammikaekanayaka1980@gmail.com**
+- 📫 Feel free to reach me out at **dammikaekanayaka1980@gmail.com**
 
-### I'm  an aspiring Data Scientist currently pursuing a Higher National Diploma in Information Technology 🎓. I'm proficient in web languages and programming, as well as Backend Development.
+### I'm an aspiring Data Scientist currently pursuing a Higher National Diploma in Information Technology 🎓. I'm proficient in web languages and programming, as well as Backend Development.
 
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -77,7 +77,7 @@
  <img border="0" alt="AdithyaBandara's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 <a href="https://www.pinterest.com/Adithya0bandara/">
- <img border="0" alt="AdithyaBandara'sprinterest" src="https://img.icons8.com/doodle/38/000000/pinterest.png"/>
+ <img border="0" alt="AdithyaBandara's printerest" src="https://img.icons8.com/doodle/38/000000/pinterest.png"/>
  </a>
   <a href="https://open.spotify.com/user/31rgcljxrnwahgogbmnwugnchbv4">
  <img border="0" alt="AdithyaBandara's spotify" src="https://img.icons8.com/doodle/38/000000/spotify.png"/>
@@ -93,13 +93,89 @@
 
 <!-----Working Tools Starts------>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Working Tools</b>
-<p align="left">
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,discord,docker,figma,firebase,github,html,idea,java,js,linux,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
+
+- **Languages**:
+    
+    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>
+
+- **My AI Tools and Frameworks**:
+
+    - **Machine Learning (ML)**:
+
+        ![Scikit-learn](https://img.shields.io/badge/scikit_learn-%2334ABD8.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+        ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+        ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+        ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+        ![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+
+    - **Deep Learning (DL)**:
+
+        ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+        ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+        ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+        ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+<br>
+
+- **My Proficient Other Backend Tools and Frameworks**:
+
+    - **Python**:
+
+        ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+        ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+        ![FastAPI](https://img.shields.io/badge/FastAPI-%230D101E.svg?style=for-the-badge&logo=FASTAPI&logoColor=white)
+
+    - **Java**:
+
+        ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
+        ![Hibernate](https://img.shields.io/badge/Hibernate-%2320232a.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+    - **PHP**:
+
+        ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+        ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=Symfony&logoColor=white)
+<br>
+
+- **Software**:
+
+    - **IDEs**:
+      
+        ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+        ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+        ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+    - **Cloud**:
+
+        ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+        ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
+        ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+        ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+    - **Other Tools**:
+
+        ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+        ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
   <!-----Working Tools Ends------>
 </p>
 <br>
+<!-----End of Profile----->
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Wrapping Up</b>
+
+"Data is the new oil. It's valuable, but if unrefined, it cannot really be used. It's not about big data; it's about meaningful data." - Adam Bly
+
+Thank you for visiting my profile! Feel free to connect with me through the social links provided above. Let's innovate and create together!
+
 <p align=""> <img src="https://komarev.com/ghpvc/?username=AdithyaBandara&label=Profile%20views&color=0e75b6&style=flat" alt="AdithyaBandara" /> </p>
