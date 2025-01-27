@@ -52,8 +52,6 @@
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdhiDevX369&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 | **Streak Stats** | **Language Breakdown** |
 |------------------|------------------------|
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhiDevX369&theme=blueberry" width="400"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhiDevX369&layout=compact&theme=vision-friendly-dark" width="400"> |
@@ -83,9 +81,6 @@ collaborate()
 ```
 
 ![Visitor Counter](https://komarev.com/ghpvc/?username=AdhiDevX369&label=Coconut+Tree+Visits&color=FFD700&style=flat-square)
-
-<!-- Animated Sri Lankan Contribution Snake -->
-![Contribution Grid](https://raw.githubusercontent.com/AdhiDevX369/AdhiDevX369/output/github-contribution-grid-snake.svg)
 
 </div>
 
