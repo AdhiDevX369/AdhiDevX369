@@ -3,12 +3,11 @@
 # <img src="https://img.icons8.com/clouds/100/000000/laptop.png" width="30"> Hi, I'm Adithya Bandara  
 ### ` Cloud Solutions Architect | AI Developer | API Specialist `
 
-</div>
-
-<!-- Animated Typing Intro -->
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=600&lines=Building+Scalable+Cloud+Architectures;Designing+AI-Powered+Solutions;Developing+Enterprise+APIs;Automating+DevOps+Pipelines)](https://git.io/typing-svg)
 
-<!-- Animated Section Tabs -->
+</div>
+
+<!-- Professional Journey -->
 <details>
 <summary><b>📜 Professional Journey</b></summary>
 
@@ -26,10 +25,10 @@
 
 </details>
 
+<!-- Technical Toolkit -->
 <details>
 <summary><b>🛠️ Technical Toolkit</b></summary>
 
-<!-- Animated Badges Grid -->
 <div align="center">
 
 | **Cloud** | **AI/ML** | **DevOps** | **APIs** |
@@ -41,8 +40,10 @@
 </div>
 </details>
 
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Connect Section -->
 <div align="center">
 
 ## 🌐 **Connect With Me**
@@ -52,25 +53,26 @@
 [![Email](https://img.shields.io/badge/Gmail-Discuss%20Projects-red?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
 
 ```python
-# Global Collaboration Hours
-def partnership_opportunities():
+# Global Collaboration
+def collaboration():
     print("Available for:")
-    print("- Cloud Architecture Design")
-    print("- AI Model Deployment")
+    print("- Cloud Architecture Reviews")
+    print("- AI Model Optimization")
     print("- API Security Audits")
     
-partnership_opportunities()
+collaboration()
 ```
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=AdhiDevX369&label=Profile+Views&color=blue&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=AdhiDevX369&label=Profile+Views&color=0089D6&style=flat-square)
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-[![Final Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&width=600&lines=Engineering+Tomorrow's+Solutions+Through+Cloud+Innovation...)](https://git.io/typing-svg)
-
+<!-- Final Quote Section -->
+<div align="center" style="margin-top: 40px; padding: 20px; border-top: 2px solid #0089D6">
+  <h3>💡 Innovation Philosophy</h3>
+  <p style="font-style: italic; color: #00b4d8; max-width: 600px; margin: 0 auto">
+    "The cloud is not just someone else's computer - it's the canvas where we paint tomorrow's solutions. 
+    Every API endpoint is a handshake between systems, and every AI model is a mirror reflecting data's hidden truth."
+  </p>
+  <p>- Adithya Bandara -</p>
 </div>
