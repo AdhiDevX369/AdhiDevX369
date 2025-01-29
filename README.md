@@ -6,29 +6,38 @@
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=600&lines=Engineering+Production-Grade+AI+Systems;Architecting+Cloud-Native+Solutions;Building+Secure+API+Ecosystems;Optimizing+ML+Workflows)](https://git.io/typing-svg)
 
 </div>
-
-<!-- Technical Arsenal -->
-<details>
+<!-- Technical Arsenal --><!-- Technical Arsenal -->
+<details>  
 <summary><b>🛠️ Technical Arsenal</b></summary>
-
 <div align="center">
 
-| **AI/ML/DL** | **Cloud Platforms** | **API Development** |
-|--------------|---------------------|---------------------|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) |
+### **AI/ML Engineering**
+| Frameworks | Tools | Operations |
+|------------|-------|------------|
+| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"> | <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"> | <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow"> <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black" alt="W&B"> |
 
-| **Monitoring** | **Languages** | **Linux Ecosystem** |
-|----------------|----------------|---------------------|
-| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) |
-| ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) |
-| ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white) |
+### **Cloud Engineering**
+| Platforms | Orchestration | Infrastructure |
+|-----------|----------------|----------------|
+| <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" alt="GCP"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"> | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="K8s"> | <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" alt="Ansible"> |
+
+### **API Development**
+| Frameworks | Tools | Standards |
+|------------|-------|-----------|
+| <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"> | <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger"> | <img src="https://img.shields.io/badge/OAuth2-EB5424?logo=oauth&logoColor=white" alt="OAuth2"> <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL"> |
+
+### **Data & Monitoring**
+| Databases | Analytics | Observability |
+|-----------|-----------|---------------|
+| <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"> | <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white" alt="BigQuery"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"> | <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana"> |
+
+### **Core Technologies**
+| Languages | DevOps | Systems |
+|-----------|--------|---------|
+| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"> | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white" alt="CentOS"> |
 
 </div>
 </details>
-
-<!-- Professional Focus -->
 <details>
 <summary><b>🚀 Professional Focus</b></summary>
 
@@ -51,7 +60,6 @@
 - **Documentation**: Maintaining comprehensive API specs with OpenAPI  
 
 </details>
-
 <!-- Education & Credentials -->
 <details>
 <summary><b>🎓 Education & Credentials</b></summary>
