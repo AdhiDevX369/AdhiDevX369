@@ -86,7 +86,7 @@
 
 ## 🌐 Let's Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/adithyabandara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/adithya-bandara/)
 [![Email](https://img.shields.io/badge/Gmail-Discuss_Projects-red?logo=gmail&style=for-the-badge)](mailto:dammikackanayaka1980@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Work-181717?logo=github&style=for-the-badge)](https://github.com/AdhiDevX369)
 
