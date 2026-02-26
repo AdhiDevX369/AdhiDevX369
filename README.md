@@ -1,125 +1,139 @@
 <div align="center">
 
-<kbd><img src="img/profile.png" width="200" /></kbd>
-  
-# <img src="https://img.icons8.com/clouds/100/000000/laptop.png" width="30"> Hi, I'm Adithya Bandara  
-### ` Associate AI Engineer | Cloud Solutions Developer | API Specialist `
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Adithya%20Bandara&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Founder%20%7C%20AI%20Engineer%20%7C%20Lecturer&descAlignY=55&descAlign=62&descSize=20" width="100%" />
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=600&lines=Engineering+Production-Grade+AI+Systems;Architecting+Cloud-Native+Solutions;Building+Secure+API+Ecosystems;Optimizing+ML+Workflows)](https://git.io/typing-svg)
+<h3 align="center">🚀 Founder @ Qord IV | 🧠 Associate AI Engineer @ AvenirIT | 🎓 CS Undergrad @ UoM</h3>
+
+<br/>
+
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F772DD&center=true&vCenter=true&width=600&lines=Engineering+production-grade+AI+systems;Architecting+cloud-native+solutions;Building+intelligent+RAG+pipelines;Optimizing+ML+workflows)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adithya-bandara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dammikackanayaka1980@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/AdhiDevX369">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
-<!-- Technical Arsenal --><!-- Technical Arsenal -->
-<details>  
-<summary><b>🛠️ Technical Arsenal</b></summary>
+
+---
+
+<br/>
+
+## 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="55%">
+        I am an <b>AI Engineer and Software Architect</b> passionate about bridging the gap between cutting-edge machine learning and robust, scalable systems. When I'm not lecturing, building tools for my agency <b>Qord IV</b>, or engineering AI solutions at <b>AvenirIT</b>, you can find me diving into text-to-SQL RAG systems, MLOps, or exploring the latest in tech.
+        <br/><br/>
+        🎓 Currently pursuing a <b>BSc in Engineering (Computer Science)</b> at the University of Moratuwa (2026-2028).<br/>
+        🏆 Holds an <b>HND in Information Technology</b> from SLIATE (First Class).<br/>
+        💡 Part-Time Lecturer at the Institute of Digital Engineering Technology (IDET).<br/>
+        ⚙️ Actively building with <b>Python, Go, Rust,</b> and <b>Next.js</b>.
+    </td>    
+  </tr>
+</table>
+
+<br/>
+
+## 📊 Analytics & Impact
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>      
+      <td align="center" width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhiDevX369&theme=radical&hide_border=true&border_radius=15" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 🛠️ Technical Ecosystem
+
 <div align="center">
 
-### **AI/ML Engineering**
-| Frameworks | Tools | Operations |
-|------------|-------|------------|
-| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"> | <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"> | <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow"> <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black" alt="W&B"> |
+<details open>
+<summary><b>🔥 Languages & Core Technologies</b></summary>
+<br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</details>
 
-### **Cloud Engineering**
-| Platforms | Orchestration | Infrastructure |
-|-----------|----------------|----------------|
-| <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" alt="GCP"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"> | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="K8s"> | <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" alt="Ansible"> |
+<details>
+<summary><b>🧠 AI, ML & Data Engineering</b></summary>
+<br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</details>
 
-### **API Development**
-| Frameworks | Tools | Standards |
-|------------|-------|-----------|
-| <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"> | <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger"> | <img src="https://img.shields.io/badge/OAuth2-EB5424?logo=oauth&logoColor=white" alt="OAuth2"> <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL"> |
+<details>
+<summary><b>☁️ Cloud, DevOps & Architecture</b></summary>
+<br/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</details>
 
-### **Data & Monitoring**
-| Databases | Analytics | Observability |
-|-----------|-----------|---------------|
-| <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"> | <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white" alt="BigQuery"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"> | <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana"> |
-
-### **Core Technologies**
-| Languages | DevOps | Systems |
-|-----------|--------|---------|
-| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"> | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white" alt="CentOS"> |
+<details>
+<summary><b>🌐 Web & API Development</b></summary>
+<br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</details>
 
 </div>
-</details>
-<details>
-<summary><b>🚀 Professional Focus</b></summary>
 
-### 🤖 **AI Engineering**  
-*"Building intelligent systems with production readiness"*  
-- **Model Development**: Designing and training DL models with PyTorch/TensorFlow  
-- **MLOps**: Implementing end-to-end pipelines with CI/CD integration  
-- **Optimization**: Model quantization and pruning for edge deployment  
+<br/>
 
-### ☁️ **Cloud Operations**  
-*"Architecting scalable solutions across platforms"*  
-- **Multi-Cloud Management**: GCP, AWS, and Azure resource orchestration  
-- **Containerization**: Docker and Kubernetes deployment strategies  
-- **Infrastructure Automation**: Terraform configurations for IaC  
-
-### 🔌 **API Engineering**  
-*"Creating robust interfaces for system integration"*  
-- **REST/GraphQL**: Developing high-performance API endpoints  
-- **Security**: Implementing OAuth2/JWT authentication systems  
-- **Documentation**: Maintaining comprehensive API specs with OpenAPI  
-
-</details>
-<!-- Education & Credentials -->
-<details>
-<summary><b>🎓 Education & Credentials</b></summary>
-
-- **Higher National Diploma in IT**  
-  Sri Lanka Institute of Advanced Technological Education  
-  *April 2022 - June 2024*  
-  Specialization: Cloud Architecture & AI Systems
-
-- **Professional Certifications**  
-  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-</details>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect Section -->
-<div>
-
-## 🌐 Let's Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/adithya-bandara/)
-[![Email](https://img.shields.io/badge/Gmail-Discuss_Projects-red?logo=gmail&style=for-the-badge)](mailto:dammikackanayaka1980@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Work-181717?logo=github&style=for-the-badge)](https://github.com/AdhiDevX369)
+## 💻 Developer Profile
 
 ```python
 class AIEngineer:
     def __init__(self):
-        self.role = "Associate AI Engineer"
-        self.skills = {
-            'ai_ml': ['Deep Learning', 'Model Optimization', 'MLOps'],
-            'cloud': ['GCP', 'AWS', 'Azure'],
-            'dev': ['Python', 'Java', 'API Design'],
-            'ops': ['Linux', 'Docker', 'Monitoring']
+        self.name = "Adithya Bandara"
+        self.roles = ["Founder @ Qord IV", "Associate AI Engineer", "Lecturer"]
+        self.focus_areas = {
+            'ai_ml': ['RAG Systems', 'Deep Learning', 'MLOps'],
+            'cloud': ['GCP', 'AWS', 'Distributed Systems'],
+            'dev': ['Go', 'Rust', 'Python', 'Next.js']
         }
-    
-    def collaborate(self):
-        print(f"As an {self.role}, I excel in:")
-        print("- Production-grade AI system development")
-        print("- Cross-cloud solution architecture")
-        print("- Enterprise API ecosystems engineering")
+
+    def get_philosophy(self):
+        return (
+            "In the intersection of artificial intelligence and cloud computing, "
+            "I build bridges where neural networks meet distributed systems, "
+            "and algorithms transform into scalable services."
+        )
 
 engineer = AIEngineer()
-engineer.collaborate()
+print(engineer.get_philosophy())
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AdhiDevX369&label=Profile+Views&color=0089D6&style=flat-square)
-
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=AdhiDevX369&label=Profile+Views&color=F772DD&style=for-the-badge" alt="Visitor Count" />
 </div>
 
-<!-- Philosophy Section -->
-<div align="center" style="margin-top: 40px; padding: 20px; border-top: 2px solid #0089D6">
-  <h3>💡 Engineering Philosophy</h3>
-  <p style="font-style: italic; color: #00b4d8; max-width: 600px; margin: 0 auto">
-    "In the intersection of artificial intelligence and cloud computing, I build bridges where neural networks meet distributed systems, and algorithms transform into scalable services."
-  </p>
-  <p>- Adithya Bandara -</p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
