@@ -30,9 +30,7 @@ I'm Adithya — an AI Engineer and Cloud Architect who enjoys turning ideas into
 
 ## What I build
 
-| Intelligent systems | Production infrastructure | Knowledge sharing |
-| :--- | :--- | :--- |
-| LLMs, agents, RAG, Text-to-SQL, and speech recognition | APIs, cloud systems, MLOps, and model evaluation | AI education, practical lessons, and engineering insights |
+<img src="./img/profile-focus.svg" width="100%" alt="Intelligent systems: LLMs, agents, RAG, Text-to-SQL, speech. Production systems: APIs, cloud, MLOps, evaluation, deployment. Knowledge sharing: AI education and teaching." />
 
 <br />
 
@@ -75,20 +73,20 @@ I'm Adithya — an AI Engineer and Cloud Architect who enjoys turning ideas into
 
 ## Selected projects
 
-| Project | What it's about | Built with |
-| :--- | :--- | :--- |
-| **[rust-exp ↗](https://github.com/AdhiDevX369/rust-exp)** | Local LLM chatbot | `Rust` `Ollama` |
-| **[MCP-S2xD ↗](https://github.com/AdhiDevX369/MCP-S2xD)** | Exploring AI and human content verification | `Go` |
-| **[WetherR-Analysis ↗](https://github.com/AdhiDevX369/WetherR-Analysis)** | Climate data processing and analysis | `R` |
-| **[AclNews-go ↗](https://github.com/AdhiDevX369/AclNews-go)** | News aggregation and automation | `Go` |
+<p align="center">
+  <a href="https://github.com/AdhiDevX369/rust-exp"><img src="./img/project-rust-exp.svg" width="49%" alt="rust-exp: Local LLM chatbot built with Rust and Ollama" /></a>
+  <a href="https://github.com/AdhiDevX369/MCP-S2xD"><img src="./img/project-mcp-s2xd.svg" width="49%" alt="MCP-S2xD: Exploring AI and human content verification with Go" /></a>
+  <a href="https://github.com/AdhiDevX369/WetherR-Analysis"><img src="./img/project-weather.svg" width="49%" alt="WetherR-Analysis: Climate data processing and analysis with R" /></a>
+  <a href="https://github.com/AdhiDevX369/AclNews-go"><img src="./img/project-news.svg" width="49%" alt="AclNews-go: News aggregation and automation with Go" /></a>
+</p>
 
 <br />
 
----
+<a href="https://adithyabandara.com">
+  <img src="./img/profile-footer.svg" width="100%" alt="Let's build something useful — explore adithyabandara.com" />
+</a>
 
 <p align="center">
-  <b>Have something in mind? Let's build it.</b><br /><br />
-  <a href="https://adithyabandara.com">Explore my work ↗</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:dammikaekanayaka1980@gmail.com">Get in touch ↗</a>
+  <a href="mailto:dammikaekanayaka1980@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-161b22?style=for-the-badge&amp;logo=gmail&amp;logoColor=6ee7b7" alt="Start a conversation by email" /></a>
+  <a href="https://www.linkedin.com/in/adithya-bandara/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-161b22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=93c5fd" alt="Connect on LinkedIn" /></a>
 </p>
