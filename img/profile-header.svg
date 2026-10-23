@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Adithya Bandara — AI Engineer and Cloud Architect</title>
+<desc id="desc">Dark editorial header with emerald accents and an abstract connected system.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#12241f"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7f3d0" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<rect x="56" y="57" width="30" height="3" rx="1.5" fill="#6ee7b7"/>
+<text x="100" y="63" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3" fill="#a7b5af">BUILD · SHIP · SHARE</text>
+<text x="54" y="147" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#f0f6fc">Adithya Bandara<tspan fill="#6ee7b7">.</tspan></text>
+<text x="58" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#b1c4bb">AI Engineer / Cloud Architect / Founder</text>
+<text x="58" y="259" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#8caaa0">From ideas to AI systems that work in the real world.</text>
+<text x="58" y="293" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" fill="#6ee7b7">ADITHYABANDARA.COM</text>
+<g fill="none" stroke="url(#accent)">
+<rect x="864" y="81" width="168" height="168" rx="32" stroke-opacity=".15" transform="rotate(-12 948 165)"/>
+<rect x="890" y="107" width="116" height="116" rx="25" stroke-opacity=".45"/>
+<path d="M948 107V65M1006 165h57M948 223v48M890 165h-45" stroke-opacity=".6"/>
+<path d="m929 148-17 17 17 17m38-34 17 17-17 17m-14-43-10 52" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g fill="#6ee7b7"><circle cx="948" cy="61" r="5"/><circle cx="1068" cy="165" r="5"/><circle cx="948" cy="276" r="5"/><circle cx="840" cy="165" r="5"/></g>
+</svg>
